@@ -1,0 +1,14 @@
+깃허브
+
+https://nbviewer.jupyter.org/github/sunypyo/skp/blob/master/folium%EC%8B%A4%EC%8A%B5.ipynb
+
+주소 앞에 
+https://nbviewer.jupyter.org/github/
+
+만 붙여주면 된다
+
+아래의 주소에 파일이 있다면, 
+https://github.com/sunypyo/skp/blob/master/foilum_test.ipynb
+
+https://nbviewer.jupyter.org/github/sunypyo/skp/blob/master/foilum_test.ipynb
+
